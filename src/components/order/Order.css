@@ -1,0 +1,35 @@
+.order{
+	border-radius: 10px;
+	background: #f4f8fb;
+	text-align: center;
+}
+.order_header{
+	margin:0 30%;
+}
+.order_form{
+	display: block;
+	margin:0 auto;
+	width: 30%;
+}
+
+.order_form input{
+	border: none;
+	width: 100%;
+padding: 10px;
+	margin-bottom: 20px;
+}
+.order_form textarea{
+border: none;
+padding: 10px;
+	width: 100%;
+	margin-bottom: 20px;
+	
+}
+.btn{
+	background-color: #10c9c3;
+	padding: 20px 35px;
+	border: none;
+	color:#fff;
+	font-size: 12px;
+	font-weight: 900;
+}
