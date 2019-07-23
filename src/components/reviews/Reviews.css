@@ -1,0 +1,27 @@
+.reviews{
+	margin-top: 2%;
+	text-align: center;
+	background: #f4f8fb;
+	padding: 0 50px;
+	 border-radius: 10px;
+}
+.review{
+
+	position: top;
+	background: #fff;
+	
+}
+.review_slide{
+	display: inline-block;
+	vertical-align:top;
+	padding: 20px;
+	width: 40%;
+	height: 80%;
+	
+}
+.review_text{
+	padding: 30px;
+display: inline-block;	
+vertical-align:top;
+	
+}
