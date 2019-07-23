@@ -1,0 +1,15 @@
+
+
+.about{
+	padding: 5% 20%;
+	position: center;
+	text-align: center;
+	 
+}
+.about p{
+	font-size: 18px
+}
+.about img {
+	margin-top: 20px;
+	width: 150px;
+}
