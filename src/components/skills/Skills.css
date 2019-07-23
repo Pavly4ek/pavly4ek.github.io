@@ -1,0 +1,30 @@
+
+.skills {
+	background: url(./../../skills_bg.png) right no-repeat;
+	background-color: #f4f8fb;
+	-webkit-background-size: contain;
+	background-size: contain;
+ 	border-radius: 10px;
+	padding: 50px;
+}
+.skills h2{
+	margin: 50px;
+}
+.skills progress{
+
+    margin: 10px 0;
+    width: 50%;
+    height: 3px;
+    color: #39b4af;
+    background: #d8d8d8;
+}
+::-webkit-progress-bar {
+    background: #d8d8d8;
+}
+::-webkit-progress-value {
+    background: #39b4af;
+}
+
+.numbers{
+	background-color: #f4f8fb;
+}
