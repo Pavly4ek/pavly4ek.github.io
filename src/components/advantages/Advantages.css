@@ -1,0 +1,28 @@
+.advantages{
+	text-align: center;
+	margin-top: 7%;
+}
+.slick_item{
+	text-align: center;
+}
+.slick_item img{
+	height: 50px;
+	margin: 0 auto;
+}
+.slick_item span{
+	font-weight:600;
+}
+
+.slick-prev:before {
+   content: url(./../../awesom/left_arrow.png);  
+}
+.slick-prev:after {
+  content: url(./../../awesom/left_arrow.png);
+}
+
+.slick-next:before {
+ content: url(./../../awesom/right_arrow.png);  
+}
+.slick-next:after {
+  content: url(./../../awesom/right_arrow.png); 
+}
